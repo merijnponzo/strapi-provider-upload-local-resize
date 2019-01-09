@@ -4,8 +4,8 @@ Add image resizing and variants to strapi upload
 in your strapi admin, change extensions/file-upload settings to variants
 
 ```
-cd plugins/upload
-npm i --save strapi-provider-upload-cloudinary
+cd strapi project /plugins/upload
+npm i strapi-provider-upload-local-resize
 ```
 
 node resizing library 
