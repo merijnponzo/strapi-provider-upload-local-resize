@@ -19,10 +19,10 @@
   ],
   "license": "MIT",
   "main": "./lib",
-  "name": "strapi-upload-local-resize",
+  "name": "strapi-provider-upload-local-resize",
   "repository": {
     "type": "git",
-    "url": "git://github.com/merijnvanessen/strapi-provider-upload-local-resize"
+    "url": "git://github.com/merijnvanessen/strapi-provider-upload-local-resize.git"
   },
   "strapi": {
     "isProvider": true
