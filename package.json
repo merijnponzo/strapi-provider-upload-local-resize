@@ -1,0 +1,39 @@
+{
+  "bundleDependencies": false,
+  "dependencies": {
+    "jimp": "^0.6.0"
+  },
+  "deprecated": false,
+  "description": "Local provider for strapi upload with resize and variants",
+  "directories": {
+    "lib": "lib"
+  },
+  "engines": {
+    "node": ">= 9.0.0",
+    "npm": ">= 5.3.0"
+  },
+  "homepage": "http://github.com/merijnvanessen/strapi-provider-upload-local-resize",
+  "keywords": [
+    "upload",
+    "strapi"
+  ],
+  "license": "MIT",
+  "main": "./lib",
+  "name": "strapi-upload-local-resize",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/merijnvanessen/strapi-provider-upload-local-resize"
+  },
+  "strapi": {
+    "isProvider": true
+  },
+  "bugs": {
+    "url": "git://github.com/merijnvanessen/strapi-provider-upload-local-resize"
+  },
+  "version": "1.0.2",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ponzo"
+}
