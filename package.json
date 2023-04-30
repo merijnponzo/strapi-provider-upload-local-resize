@@ -2,7 +2,7 @@
   "bundleDependencies": false,
   "dependencies": {
     "image-type": "^4.1.0",
-    "jimp": "^0.6.0"
+    "jimp": "^0.22.7"
   },
   "deprecated": false,
   "description": "Local provider for strapi upload with resize and variants",
